@@ -1,0 +1,5 @@
+_Resharper.gmake
+bin
+obj
+*.suo
+ReSharper.user
